@@ -1,5 +1,6 @@
 # MOVEDepth
-MOVEDepth: Crafting Monocular Cues and Velocity Guidance for Self-Supervised Multi-Frame Depth Learning
+MOVEDepth: Crafting Monocular Cues and Velocity Guidance for Self-Supervised Multi-Frame Depth Learning [arxiv](https://arxiv.org/abs/2208.09170)
+
 
 This repository contains the official implementation of the paper: "Crafting Monocular Cues and Velocity Guidance for Self-Supervised Multi-Frame Depth Learning".
 
